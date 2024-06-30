@@ -1,0 +1,12 @@
+Construir arquiteturas na nuvem utilizando o Azure envolve vários passos e boas práticas para garantir que sua solução seja eficiente, 
+segura e escalável. Aqui está um guia básico para começar: ## 
+1. **Planejamento da Arquitetura** - **Objetivos e Requisitos:** Defina claramente os objetivos do projeto e os requisitos funcionais e não funcionais (desempenho, segurança, escalabilidade,
+etc. ). - **Serviços do Azure:** Familiarize-se com os serviços do Azure que podem atender aos seus requisitos. 
+Alguns dos serviços mais comuns incluem Azure VMs, Azure App Services, Azure SQL Database, Azure Storage e Azure Kubernetes Service (AKS). ## 
+2. **Desenho da Arquitetura** - **Camadas de Aplicação:** Organize sua arquitetura em camadas, como camada de apresentação, camada de negócios, e camada de dados.
+- **Componentes e Serviços:** Escolha os componentes e serviços do Azure que melhor se adequam a cada camada. Por exemplo: -
+
+
+
+
+
